@@ -33,13 +33,13 @@
 - 有了JDBC，Java程序访问数据库时是这样的：
 
 
-![1555575981203](尚硅谷_宋红康_JDBC.assets/1555575981203.png)
+![image](https://user-images.githubusercontent.com/69302396/133929666-a83a391e-b3cf-4812-8a5d-00a731abd920.png)
 
 ***
 
 - 总结如下：
 
-![1566741692804](尚硅谷_宋红康_JDBC.assets/1566741692804.png)
+![image](https://user-images.githubusercontent.com/69302396/133929671-ad1f9e01-8544-43aa-b013-fea0d49ac2cd.png)
 
 ### 1.4 JDBC体系结构
 
@@ -53,6 +53,6 @@
 
 ### 1.5 JDBC程序编写步骤
 
-![1565969323908](尚硅谷_宋红康_JDBC.assets/1565969323908.png)
+![image](https://user-images.githubusercontent.com/69302396/133929677-3dccb53b-de93-4586-9204-d7c9bed86646.png)
 
 > 补充：ODBC(**Open Database Connectivity**，开放式数据库连接)，是微软在Windows平台下推出的。使用者在程序中只需要调用ODBC API，由 ODBC 驱动程序将调用转换成为对特定的数据库的调用请求。
